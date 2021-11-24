@@ -18,6 +18,7 @@ def complexity_lempelziv(
     multiscale=False,
     normalize=True,
     show=False,
+    **kwargs
 ):
     """Lempel-Ziv Complexity (LZC, PLZC and MPLZC)
 
